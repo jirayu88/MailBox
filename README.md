@@ -21,7 +21,7 @@ Condo Services
 
 
 ## Application Flow
-![Alt text](https://github.com/jirayu88/BIS/blob/master/Project%20Scope.png)
+![Alt text](https://github.com/jirayu88/MailBox/blob/master/UserOverView.png)
 
 ## Platfrom
 - Web Platfrom
