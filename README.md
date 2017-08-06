@@ -12,7 +12,6 @@ Condo Services
 - Mobile Application (IOS / Android)
 - Terminal Application
 - Web Service Application
-![Alt text](https://github.com/jirayu88/BIS/blob/master/8-5-2017%2011-01-23%20PM.png)
 
 
 ## UI Design
