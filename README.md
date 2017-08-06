@@ -24,8 +24,9 @@ LCD Display [ Monitor design ] (https://github.com/jirayu88/MailBox/blob/master/
  ![Alt text](https://github.com/jirayu88/MailBox/blob/master/MCU_prototypeV2.png)
 
 ## Drawing
- MailBox Door (https://github.com/jirayu88/MailBox/blob/master/MailBoxDoorV1.png)
- MailBox Door (https://github.com/jirayu88/MailBox/blob/master/MailBoxBodyV1.png)
+ MailBox
+ ![Alt text] (https://github.com/jirayu88/MailBox/blob/master/MailBoxDoorV1.png)
+ ![Alt text] (https://github.com/jirayu88/MailBox/blob/master/MailBoxBodyV1.png)
  
  Share Box
  ![Alt text](https://github.com/jirayu88/MailBox/blob/master/ShareBoxV1.png)
